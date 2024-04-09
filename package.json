@@ -11,7 +11,26 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "next": "14.1.4",
+    "@cosmjs/math": "^0.31.1",
+    "@cosmjs/proto-signing": "^0.31.1",
+    "@cosmjs/stargate": "^0.31.1",
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.1",
+    "@keplr-wallet/types": "^0.11.64",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@walletconnect/sign-client": "^2.7.1",
+    "@walletconnect/types": "^2.7.1",
+    "@walletconnect/web3wallet": "^1.6.0",
+    "clsx": "^1.2.1",
+    "ethers": "^5.7.2",
+    "framer-motion": "^11.0.6",
+    "kujira.js": "github:Team-Kujira/kujira.js#master",
+    "phoenix": "^1.6.7",
+    "pino-pretty": "^10.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-qr-rounded": "^1.0.0",
+    "react-tooltip": "^4.5.1"
   },
   "devDependencies": {
     "typescript": "^5",
